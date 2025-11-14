@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nicolas, tenho 15 anos. Estou a Caminho De Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia E Desevolvimento Software
+Me chamo Nicolas, tenho 15 anos. Estou a Caminho De Concluí o ensino médio, com o curso técnico em informática. Atualmente, pretendo cursar em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia E Desevolvimento Software
 
 ---
 
